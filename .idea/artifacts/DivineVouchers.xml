@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DivineVouchers">
+    <output-path>$PROJECT_DIR$/../../Redemption Prisons - Copy (3)/plugins</output-path>
+    <root id="archive" name="DivineVouchers.jar">
+      <element id="module-output" name="DivineVouchers" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

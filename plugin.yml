@@ -1,0 +1,9 @@
+name: DivineVouchers
+version: 2.0
+main: me.evisual.divinevouchers.DivineVouchers
+
+commands:
+  divinevoucher:
+    description: Main command for DivineVouchers
+    aliases: [divinevouchers, dv, voucher, vouchers]
+    usage: /<command>
